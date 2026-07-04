@@ -3,8 +3,8 @@
 [![License: NPF 1.0](./badges/npf-badge.svg)](./LICENSE_EN)
 
 A maximally permissive software license (based on MIT) with one extra
-condition: rights are granted only to people whose *perdak* does not
-catch fire frequently and without reason.
+condition: rights are granted only to people whose *perdak* (also known as *pukan*)
+does not catch fire frequently and without reason.
 
 > This is a semi-parody license. The permissive core comes from MIT; the
 > "No Perdak Fire" condition intentionally loosens that permissiveness at
