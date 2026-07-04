@@ -38,10 +38,10 @@ does not catch fire frequently and without reason.
 
 **Option B — self-hosted SVG from this repo:**
 ```markdown
-[![License: NPF 1.0](https://raw.githubusercontent.com/nikolaynnov/npf-license/master/badges/npf-badge.svg)](https://github.com/nikolaynnov/npf-license/blob/main/LICENSE_EN)
+[![License: NPF 1.0](https://raw.githubusercontent.com/nikolaynnov/npf-license/master/badges/npf-badge.svg)](https://github.com/nikolaynnov/npf-license/blob/master/LICENSE_EN)
 ```
 
 **Option B (via jsDelivr CDN, most reliable content-type):**
 ```markdown
-[![License: NPF 1.0](https://cdn.jsdelivr.net/gh/nikolaynnov/npf-license@master/badges/npf-badge.svg)](https://github.com/nikolaynnov/npf-license/blob/main/LICENSE_EN)
+[![License: NPF 1.0](https://cdn.jsdelivr.net/gh/nikolaynnov/npf-license@master/badges/npf-badge.svg)](https://github.com/nikolaynnov/npf-license/blob/master/LICENSE_EN)
 ```
