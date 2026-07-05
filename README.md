@@ -22,7 +22,7 @@ does not catch fire frequently and without reason.
 ## Use it in your project
 
 1. Copy `LICENSE_EN` (and optionally `LICENSE_RU`) into your repo.
-2. Fill in `[COPYRIGHT HOLDER]` / `[ПРАВООБЛАДАТЕЛЬ]` and the year.
+2. Fill in `[COPYRIGHT HOLDER]` / `[ПРАВООБЛАДАТЕЛЬ]` and the [YEAR].
 3. Add the badge to your README (see below).
 4. Optionally add this line to the top of each source file:
    ```
